@@ -1,1 +1,2 @@
 # Half-Adder
+A half adder is a basic digital circuit used to add two single-bit binary numbers. It has two inputs, usually labeled A and B, and two outputs: Sum and Carry. The Sum output represents the result of the addition, while the Carry output indicates if there is a carry-over to the next bit position. Unlike a full adder, a half adder cannot handle a carry input from previous additions, making it suitable for simpler, single-bit addition tasks.
