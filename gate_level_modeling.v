@@ -1,4 +1,4 @@
-module(
+module half_adder(
   output Sum,Carry,
   input A,B);
 
